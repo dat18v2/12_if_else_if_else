@@ -15,6 +15,7 @@ public class Student{
       this.age = age;
    }
    
+   //set
    public void setStudent(String name, String phone, int age){
       this.name = name;
       this.phone = phone;
@@ -49,9 +50,9 @@ public class Student{
    18-65: full SU
    66-: retirement aid instead of SU
    
-   if (...){
+   if (15<=alder && alder<18){
    }
-   else if (...){
+   else if (!(15<=alder && alder<18) && (alder==27)){
    }
    else{
    }

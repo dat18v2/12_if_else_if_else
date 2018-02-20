@@ -11,6 +11,7 @@ public class Teacher{
       this.phone = phone;
    }
    
+   //set
    public void setTeacher(String name, String phone){
       this.name = name;
       this.phone = phone;
