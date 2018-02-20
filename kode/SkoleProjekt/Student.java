@@ -39,6 +39,17 @@ public class Student{
       System.out.println("Student name: " + name);
       System.out.println("Student phone: " + phone);
       System.out.println("Student age: " + age);
+      /*
+      if (...){
+         print et eller andet
+      }
+      else if (...){
+         skriv noget andet
+      }
+      else{
+         skriv noget tredie
+      }
+      */
       System.out.println();
    } 
    
